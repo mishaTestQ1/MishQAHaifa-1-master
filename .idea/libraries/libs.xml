@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MishQAHaifa-1-master/libs/guava-25.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MishQAHaifa-1-master/libs/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MishQAHaifa-1-master/libs/client-combined-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MishQAHaifa-1-master/libs/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MishQAHaifa-1-master/libs/client-combined-3.141.59-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MishQAHaifa-1-master/libs/okhttp-3.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MishQAHaifa-1-master/libs/testng-6.14.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MishQAHaifa-1-master/libs/okio-1.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
